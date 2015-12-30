@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>English</key>
+	<dict>
+		<key>Loginfailed</key>
+		<string>Login Failed</string>
+		<key>Additional</key>
+		<string>Additional</string>
+		<key>ConnectionTimeout</key>
+		<string>ConnectionTimeout</string>
+		<key>Total</key>
+		<string>Total</string>
+		<key>Count</key>
+		<string>Count</string>
+		<key>Unit</key>
+		<string>Unit</string>
+		<key>Price</key>
+		<string>Price</string>
+		<key>Food</key>
+		<string>Food</string>
+		<key>The effective date</key>
+		<string>The effective date</string>
+		<key>Membership price effective date</key>
+		<string>Membership price effective date</string>
+		<key>Type</key>
+		<string>Type</string>
+		<key>State</key>
+		<string>State</string>
+		<key>Integral</key>
+		<string>Integral</string>
+		<key>Stored value balance</key>
+		<string>Stored value balance</string>
+		<key>Birthday</key>
+		<string>Birthday</string>
+		<key>Phone number</key>
+		<string>Phone number</string>
+		<key>VIP name</key>
+		<string>VIP name</string>
+		<key>History Order</key>
+		<string>History Order</string>
+		<key>VIP Info</key>
+		<string>VIP Info</string>
+		<key>Coupons</key>
+		<string>Coupons</string>
+		<key>FTP set success</key>
+		<string>FTP set success</string>
+		<key>FTP set failed</key>
+		<string>FTP set failed</string>
+		<key>Is to test whether the FTP</key>
+		<string>Is to test whether the FTP</string>
+		<key>Please enter your user name or password</key>
+		<string>Please enter your user name or password</string>
+		<key>Sound Settings</key>
+		<string>Sound Settings</string>
+		<key>iPad Setting</key>
+		<string>iPad Setting</string>
+		<key>IP Setting</key>
+		<string>IP Setting</string>
+		<key>Load</key>
+		<string>Load······</string>
+		<key>Sound</key>
+		<string>Sound</string>
+		<key>POS Code Settings</key>
+		<string>POS Code Settings</string>
+		<key>Physical coding</key>
+		<string>Physical coding</string>
+		<key>Equipment coding</key>
+		<string>Equipment coding</string>
+		<key>FTP Settings</key>
+		<string>FTP Settings</string>
+		<key>User Name</key>
+		<string>User Name</string>
+		<key>Password</key>
+		<string>Password</string>
+		<key>FTP address</key>
+		<string>FTP address</string>
+		<key>Port</key>
+		<string>Port</string>
+		<key>Data</key>
+		<string>Data</string>
+		<key>Update the data</key>
+		<string>Update the data</string>
+		<key>Finish</key>
+		<string>Finish</string>
+		<key>Please enter the POSID</key>
+		<string>Please enter the POSID</string>
+		<key>OK</key>
+		<string>OK</string>
+		<key>Cancel</key>
+		<string>Cancel</string>
+		<key>Please enter the physical encoding</key>
+		<string>Please enter the physical encoding</string>
+		<key>Please enter your user name</key>
+		<string>Please enter your user name</string>
+		<key>Please enter the password</key>
+		<string>Please enter the password</string>
+		<key>Please enter the FTP address</key>
+		<string>Please enter the FTP address</string>
+		<key>Please enter the IP address</key>
+		<string>Please enter the IP address</string>
+		<key>Please enter the port</key>
+		<string>Please enter the port</string>
+		<key>Have some food</key>
+		<string>Have some food</string>
+		<key>The bill amount</key>
+		<string>The bill amount</string>
+		<key>Cancel the order</key>
+		<string>Cancel the order</string>
+		<key>Confirm the order</key>
+		<string>Confirm the order</string>
+		<key>You confirm to delete items instead?</key>
+		<string>You confirm to delete items instead?</string>
+		<key>The current package 1 layer did not choose to complete</key>
+		<string>The current package 1 layer did not choose to complete</string>
+		<key>It can choose in other food has finished, please long press cancel after dishes, then choose new dishes</key>
+		<string>It can choose in other food has finished, please long press cancel after dishes, then choose new dishes</string>
+		<key>Skip</key>
+		<string>Skip</string>
+		<key>Dishes on the cross</key>
+		<string>Dishes on the cross</string>
+		<key>Please select the dishes before you place the order</key>
+		<string>Please select the dishes before you place the order</string>
+	</dict>
+	<key>Chinese</key>
+	<dict>
+		<key>Loginfailed</key>
+		<string>登录失败</string>
+		<key>ConnectionTimeout</key>
+		<string>连接超时</string>
+		<key>Additional</key>
+		<string>附加项</string>
+		<key>Total</key>
+		<string>小计</string>
+		<key>Count</key>
+		<string>数量</string>
+		<key>Price</key>
+		<string>单价</string>
+		<key>Unit</key>
+		<string>单位</string>
+		<key>Food</key>
+		<string>菜品</string>
+		<key>VIP name</key>
+		<string>会员姓名</string>
+		<key>Phone number</key>
+		<string>手机号</string>
+		<key>Birthday</key>
+		<string>生日</string>
+		<key>Stored value balance</key>
+		<string>储值余额</string>
+		<key>Integral</key>
+		<string>会员积分</string>
+		<key>State</key>
+		<string>状态</string>
+		<key>Type</key>
+		<string>类型</string>
+		<key>Membership price effective date</key>
+		<string>会员价有效日期</string>
+		<key>The effective date</key>
+		<string>有效日期</string>
+		<key>History Order</key>
+		<string>交易情况</string>
+		<key>Coupons</key>
+		<string>电子优惠券</string>
+		<key>VIP Info</key>
+		<string>会员卡信息</string>
+		<key>FTP set failed</key>
+		<string>FTP设置失败</string>
+		<key>FTP set success</key>
+		<string>FTP设置成功</string>
+		<key>Is to test whether the FTP</key>
+		<string>正在验证ftp是否连通</string>
+		<key>Please enter your user name or password</key>
+		<string>请先输入用户名密码</string>
+		<key>Load</key>
+		<string>加载中······</string>
+		<key>Sound Settings</key>
+		<string>声音设置</string>
+		<key>iPad Setting</key>
+		<string>iPad设置</string>
+		<key>IP Setting</key>
+		<string>IP设置</string>
+		<key>Sound</key>
+		<string>声音</string>
+		<key>POS Code Settings</key>
+		<string>POS编码设置</string>
+		<key>Physical coding</key>
+		<string>物理编码</string>
+		<key>Equipment coding</key>
+		<string>设备编码</string>
+		<key>FTP Settings</key>
+		<string>FTP设置</string>
+		<key>User Name</key>
+		<string>用户名</string>
+		<key>Password</key>
+		<string>密码</string>
+		<key>FTP address</key>
+		<string>FTP地址</string>
+		<key>Port</key>
+		<string>端口</string>
+		<key>Data</key>
+		<string>数据</string>
+		<key>Update the data</key>
+		<string>数据同步</string>
+		<key>Finish</key>
+		<string>完成</string>
+		<key>Please enter the POSID</key>
+		<string>请输入POSID</string>
+		<key>OK</key>
+		<string>确定</string>
+		<key>Cancel</key>
+		<string>取消</string>
+		<key>Please enter the physical encoding</key>
+		<string>请输入设备编号</string>
+		<key>Please enter your user name</key>
+		<string>请输入用户名</string>
+		<key>Please enter the password</key>
+		<string>请输入密码</string>
+		<key>Please enter the FTP address</key>
+		<string>请输入FTP地址</string>
+		<key>Please enter the IP address</key>
+		<string>请输入IP地址</string>
+		<key>Please enter the port</key>
+		<string>请输入端口号</string>
+		<key>Have some food</key>
+		<string>已点菜品</string>
+		<key>The bill amount</key>
+		<string>账单金额</string>
+		<key>Cancel the order</key>
+		<string>取消账单</string>
+		<key>Confirm the order</key>
+		<string>确认账单</string>
+		<key>You confirm to delete items instead?</key>
+		<string>你确定要删除该菜品吗</string>
+		<key>The current package 1 layer did not choose to complete</key>
+		<string>当前套餐%d层没有选择完毕</string>
+		<key>It can choose in other food has finished, please long press cancel after dishes, then choose new dishes</key>
+		<string>该可换菜已选择完毕，请长按取消菜品后，再选择新的菜品</string>
+		<key>Skip</key>
+		<string>跳过</string>
+		<key>Dishes on the cross</key>
+		<string>菜品上传中</string>
+		<key>Please select the dishes before you place the order</key>
+		<string>请选择完菜品后再下单</string>
+	</dict>
+	<key>Japanese</key>
+	<dict>
+		<key>Loginfailed</key>
+		<string>Login failed</string>
+		<key>Additional</key>
+		<string>Additional</string>
+		<key>Total</key>
+		<string>Total</string>
+		<key>Count</key>
+		<string>Count</string>
+		<key>Unit</key>
+		<string>单位</string>
+		<key>Price</key>
+		<string>Price</string>
+		<key>Food</key>
+		<string>Food</string>
+		<key>The effective date</key>
+		<string>有效日期</string>
+		<key>Membership price effective date</key>
+		<string>会员价有效日期</string>
+		<key>Type</key>
+		<string>类型</string>
+		<key>State</key>
+		<string>状态</string>
+		<key>Integral</key>
+		<string>会员积分</string>
+		<key>Stored value balance</key>
+		<string>储值余额</string>
+		<key>Birthday</key>
+		<string>生日</string>
+		<key>Phone number</key>
+		<string>手机号</string>
+		<key>VIP name</key>
+		<string>VIP name</string>
+		<key>History Order</key>
+		<string>History Order</string>
+		<key>Coupons</key>
+		<string>电子优惠券</string>
+		<key>VIP Info</key>
+		<string>VIP Info</string>
+		<key>FTP set failed</key>
+		<string>FTP set failed</string>
+		<key>FTP set success</key>
+		<string>FTP set success</string>
+		<key>Is to test whether the FTP</key>
+		<string>Is to test whether the FTP</string>
+		<key>Please enter your user name or password</key>
+		<string>Please enter your user name or password</string>
+		<key>Load</key>
+		<string>加载中······</string>
+		<key>IP Setting</key>
+		<string>IP设置</string>
+		<key>iPad Setting</key>
+		<string>iPad设置</string>
+		<key>Sound Settings</key>
+		<string>Sound Settings</string>
+		<key>Sound</key>
+		<string>Sound</string>
+		<key>POS Code Settings</key>
+		<string>POS Code Settings</string>
+		<key>Physical coding</key>
+		<string>Physical coding</string>
+		<key>Equipment coding</key>
+		<string>Equipment coding</string>
+		<key>FTP Settings</key>
+		<string>FTP Settings</string>
+		<key>User Name</key>
+		<string>User Name</string>
+		<key>Password</key>
+		<string>Password</string>
+		<key>FTP address</key>
+		<string>FTP address</string>
+		<key>Port</key>
+		<string>Port</string>
+		<key>Data</key>
+		<string>Data</string>
+		<key>Update the data</key>
+		<string>Update the data</string>
+		<key>Finish</key>
+		<string>Finish</string>
+		<key>Please enter the POSID</key>
+		<string>Please enter the POSID</string>
+		<key>OK</key>
+		<string>OK</string>
+		<key>Cancel</key>
+		<string>Cancel</string>
+		<key>Please enter the physical encoding</key>
+		<string>Please enter the physical encoding</string>
+		<key>Please enter your user name</key>
+		<string>Please enter your user name</string>
+		<key>Please enter the password</key>
+		<string>Please enter the password</string>
+		<key>Please enter the FTP address</key>
+		<string>Please enter the FTP address</string>
+		<key>Please enter the IP address</key>
+		<string>Please enter the IP address</string>
+		<key>Please enter the port</key>
+		<string>Please enter the port</string>
+		<key>Have some food</key>
+		<string>Have some food</string>
+		<key>The bill amount</key>
+		<string>The bill amount</string>
+		<key>Cancel the order</key>
+		<string>Cancel the order</string>
+		<key>Confirm the order</key>
+		<string>Confirm the order</string>
+		<key>You confirm to delete items instead？</key>
+		<string>You confirm to delete items instead？</string>
+		<key>The current package 1 layer did not choose to complete</key>
+		<string>The current package 1 layer did not choose to complete</string>
+		<key>It can choose in other food has finished, please long press cancel after dishes, then choose new dishes</key>
+		<string>It can choose in other food has finished, please long press cancel after dishes, then choose new dishes</string>
+		<key>Skip</key>
+		<string>Skip</string>
+		<key>Dishes on the cross</key>
+		<string>Dishes on the cross</string>
+		<key>Please select the dishes before you place the order</key>
+		<string>Please select the dishes before you place the order</string>
+	</dict>
+	<key>Trandtion</key>
+	<dict>
+		<key>Loginfailed</key>
+		<string>Login Failed</string>
+		<key>Additional</key>
+		<string>Additional</string>
+		<key>Total</key>
+		<string>Total</string>
+		<key>Count</key>
+		<string>Count</string>
+		<key>Unit</key>
+		<string>单位</string>
+		<key>Price</key>
+		<string>Price</string>
+		<key>Food</key>
+		<string>Food</string>
+		<key>The effective date</key>
+		<string>有效日期</string>
+		<key>Membership price effective date</key>
+		<string>会员价有效日期</string>
+		<key>Type</key>
+		<string>类型</string>
+		<key>State</key>
+		<string>状态</string>
+		<key>Integral</key>
+		<string>会员积分</string>
+		<key>Stored value balance</key>
+		<string>储值余额</string>
+		<key>Birthday</key>
+		<string>生日</string>
+		<key>Phone number</key>
+		<string>手机号</string>
+		<key>VIP name</key>
+		<string>VIP name</string>
+		<key>History Order</key>
+		<string>交易情况</string>
+		<key>Coupons</key>
+		<string>电子优惠券</string>
+		<key>VIP Info</key>
+		<string>VIP Info</string>
+		<key>FTP set failed</key>
+		<string>FTP set failed</string>
+		<key>FTP set success</key>
+		<string>FTP 設置成功</string>
+		<key>Is to test whether the FTP</key>
+		<string>正在驗證FTP是否聯通</string>
+		<key>Load</key>
+		<string>加载中······</string>
+		<key>Please enter your user name or password</key>
+		<string>请先输入用户名密码</string>
+		<key>IP Setting</key>
+		<string>IP设置</string>
+		<key>iPad Setting</key>
+		<string>iPad设置</string>
+		<key>Sound Settings</key>
+		<string>聲音設置</string>
+		<key>Sound</key>
+		<string>聲音</string>
+		<key>POS Code Settings</key>
+		<string>POS編碼設置</string>
+		<key>Physical coding</key>
+		<string>物理編號</string>
+		<key>Equipment coding</key>
+		<string>設備編號</string>
+		<key>FTP Settings</key>
+		<string>FTP設置</string>
+		<key>User Name</key>
+		<string>用戶名</string>
+		<key>Password</key>
+		<string>密碼</string>
+		<key>FTP address</key>
+		<string>FTP地址</string>
+		<key>Port</key>
+		<string>端口號</string>
+		<key>Data</key>
+		<string>數據</string>
+		<key>Update the data</key>
+		<string>更新數據</string>
+		<key>Finish</key>
+		<string>完成</string>
+		<key>Please enter the POSID</key>
+		<string>請輸入POSID</string>
+		<key>OK</key>
+		<string>確定</string>
+		<key>Cancel</key>
+		<string>取消</string>
+		<key>Please enter the physical encoding</key>
+		<string>請輸入物理編號</string>
+		<key>Please enter your user name</key>
+		<string>請輸入用戶名</string>
+		<key>Please enter the password</key>
+		<string>請輸入密碼</string>
+		<key>Please enter the FTP address</key>
+		<string>請輸入FTP地址</string>
+		<key>Please enter the IP address</key>
+		<string>請輸入IP地址</string>
+		<key>Please enter the port</key>
+		<string>請輸入端口號</string>
+		<key>Have some food</key>
+		<string>已點菜品</string>
+		<key>The bill amount</key>
+		<string>賬單金額</string>
+		<key>Cancel the order</key>
+		<string>取消賬單</string>
+		<key>Confirm the order</key>
+		<string>確定賬單</string>
+		<key>You confirm to delete items instead？</key>
+		<string>你確定要刪除該菜品嗎</string>
+		<key>The current package 1 layer did not choose to complete</key>
+		<string>該套餐％d層沒有選擇完畢</string>
+		<key>It can choose in other food has finished, please long press cancel after dishes, then choose new dishes</key>
+		<string>該可換購菜已選擇完畢，請長按刪除后再去選擇新菜品</string>
+		<key>Skip</key>
+		<string>跳過</string>
+		<key>Dishes on the cross</key>
+		<string>菜品上傳中</string>
+		<key>Please select the dishes before you place the order</key>
+		<string>請選擇完菜品后再下單</string>
+	</dict>
+</dict>
+</plist>
